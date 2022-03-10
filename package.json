@@ -2,7 +2,7 @@
   "name": "@silvered-nyc/flatten-object-keys",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "starter-name": "silvered-nyc/flatten-object-keys",
+  "version":"1.05",
   "devDependencies": {
     "typescript": "^4.4.3",
     "@types/node": "16.11.7",
