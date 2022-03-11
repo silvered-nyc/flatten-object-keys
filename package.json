@@ -1,8 +1,8 @@
 {
-  "name": "@silvered-nyc/flatten-object-keys",
+  "name": "@silvered/flatten-object-keys",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "version":"1.0.5",
+  "version": "1.0.5",
   "devDependencies": {
     "typescript": "^4.4.3",
     "@types/node": "16.11.7",
@@ -17,5 +17,21 @@
   },
   "dependencies": {
     "lodash": "~4.17.21"
-  }
+  },
+  "description": "Turn deeply nested object into any array of keys. This is useful if you need to write algorithms and transformation that are taxonomy independent.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silvered-nyc/flatten-object-keys.git"
+  },
+  "keywords": [
+    "flatten",
+    "object",
+    "keys"
+  ],
+  "author": "Silvered",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silvered-nyc/flatten-object-keys/issues"
+  },
+  "homepage": "https://github.com/silvered-nyc/flatten-object-keys#readme"
 }
